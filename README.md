@@ -2,7 +2,8 @@
 
 * server runs at port 3000
 * websocket is used for the server side, install it via npm
-    '''
-    nmp install websocket
-    '''
+    ```
+    npm install websocket
+    ```
+
 
